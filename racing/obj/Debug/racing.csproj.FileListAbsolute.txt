@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\racing\racing\bin\Debug\racing.exe.config
+C:\Users\User\source\repos\racing\racing\bin\Debug\racing.exe
+C:\Users\User\source\repos\racing\racing\bin\Debug\racing.pdb
+C:\Users\User\source\repos\racing\racing\obj\Debug\racing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\racing\racing\obj\Debug\racing.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\racing\racing\obj\Debug\racing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\racing\racing\obj\Debug\racing.exe
+C:\Users\User\source\repos\racing\racing\obj\Debug\racing.pdb
