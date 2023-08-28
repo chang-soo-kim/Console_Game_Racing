@@ -19,7 +19,7 @@ namespace racing
             
             
 
-
+        //커밋용 수정
 
             int score_count = 0;
             //int dool_num = random.Next(2, 10);
