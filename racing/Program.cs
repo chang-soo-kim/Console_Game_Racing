@@ -20,6 +20,7 @@ namespace racing
             
 
       //데브1 추가
+      //데브2 추가
 
 
             int score_count = 0;
