@@ -20,6 +20,7 @@ namespace racing
             
 
         //커밋용 수정
+        //dev 브런치 생성
 
             int score_count = 0;
             //int dool_num = random.Next(2, 10);
