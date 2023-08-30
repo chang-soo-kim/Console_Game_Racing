@@ -26,6 +26,7 @@ namespace racing
         //데브1 커밋 추가
         //데브4 커밋 추가
         //메인에서 커밋 추가
+        //데브2 커밋 추가
 
             int score_count = 0;
             //int dool_num = random.Next(2, 10);
