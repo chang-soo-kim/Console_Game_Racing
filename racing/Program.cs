@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +21,7 @@ namespace racing
 
         //커밋용 수정
         //dev 브런치 생성
+        //main 브런치 추가
         //추가1
 
             int score_count = 0;
