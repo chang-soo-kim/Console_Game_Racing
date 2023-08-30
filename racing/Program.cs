@@ -28,6 +28,7 @@ namespace racing
         //메인에서 커밋 추가
         //데브2 커밋 추가
 
+        //데브3 커밋 추가
             int score_count = 0;
             //int dool_num = random.Next(2, 10);
             int[] ran_x = new int[25]; //랜덤 장애물 x 좌표값 저장 배열
