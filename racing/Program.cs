@@ -19,16 +19,9 @@ namespace racing
             
             
 
-        //커밋용 수정
-        //dev 브런치 생성
-        //main 브런치 추가
-        //추가1
-        //데브1 커밋 추가
-        //데브4 커밋 추가
-        //메인에서 커밋 추가
-        //데브2 커밋 추가
+      //데브1 추가
 
-        //데브3 커밋 추가
+
             int score_count = 0;
             //int dool_num = random.Next(2, 10);
             int[] ran_x = new int[25]; //랜덤 장애물 x 좌표값 저장 배열
