@@ -23,6 +23,7 @@ namespace racing
         //dev 브런치 생성
         //main 브런치 추가
         //추가1
+        //데브2 커밋 추가
 
             int score_count = 0;
             //int dool_num = random.Next(2, 10);
